@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\button_location.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-xhdpi\\button_location.xml"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ditu.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-xhdpi\\ditu.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b3.jpg",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-xhdpi\\b3.jpg"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b5.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-xhdpi\\b5.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\one.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-xhdpi\\one.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b2.jpg",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-xhdpi\\b2.jpg"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b1.jpg",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-xhdpi\\b1.jpg"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b4.jpg",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-xhdpi\\b4.jpg"
+    }
+]

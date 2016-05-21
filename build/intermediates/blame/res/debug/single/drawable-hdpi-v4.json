@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day53.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day53.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night07.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night07.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day22.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day22.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day06.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day06.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day14.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day14.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day00.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day00.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night01.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night01.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night23.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night23.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day05.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day05.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day30.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day30.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night31.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night31.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night15.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night15.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night00.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night00.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night29.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night29.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day28.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day28.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dayundefined.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\dayundefined.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night53.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night53.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day27.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day27.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day13.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day13.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day16.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day16.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day21.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day21.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day24.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day24.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night19.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night19.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night16.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night16.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day19.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day19.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night02.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night02.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night08.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night08.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night24.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night24.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night21.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night21.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night10.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night10.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night05.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night05.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night13.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night13.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zqb.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\zqb.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day17.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day17.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night04.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night04.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day11.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day11.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night12.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night12.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night27.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night27.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day03.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day03.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day08.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day08.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day02.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day02.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night20.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night20.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toolbar.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\toolbar.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day10.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day10.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_down.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\location_down.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day09.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day09.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night26.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night26.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day25.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day25.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night18.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night18.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night28.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night28.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night11.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night11.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night25.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night25.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day07.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day07.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\drawer.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day18.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day18.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night03.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night03.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night06.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night06.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night17.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night17.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night22.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night22.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night14.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night14.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night09.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night09.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day29.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day29.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\night30.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\night30.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day23.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day23.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day26.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day26.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_up.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\location_up.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day31.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day31.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day01.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day01.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day15.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day15.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day20.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day20.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day04.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day04.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\day12.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-hdpi\\day12.png"
+    }
+]

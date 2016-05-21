@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\drawer.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-mdpi\\drawer.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\arrow.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\layout\\choose_area.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\layout\\choose_area.xml"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_item.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\layout\\drawer_item.xml"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setting.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\layout\\dialog_setting.xml"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\layout\\weather_layout.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\layout\\weather_layout.xml"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\layout\\area_item.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\layout\\area_item.xml"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_item2.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\layout\\drawer_item2.xml"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh.xml",
+        "source": "Y:\\AndroidStudioProjects\\MyApplication\\XDWeather\\src\\main\\res\\layout\\pull_to_refresh.xml"
+    }
+]
